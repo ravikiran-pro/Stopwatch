@@ -1,2 +1,2 @@
 # Stopwatch
-a simple stopwatch project created by python tkinter
+A simple stopwatch project created by python tkinter
